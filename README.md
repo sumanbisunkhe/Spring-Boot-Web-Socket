@@ -31,8 +31,8 @@ Welcome to the Chat Room Application! This project is a real-time chat applicati
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/sumanbisunkhe/Spring-Boot-Web-Socket.git
-    cd Spring-Boot-Web-Socket
+    git clone https://github.com/sumanbisunkhe/Web-Socket.git
+    cd Web-Socket
     ```
 
 2. **Build the Project**:
